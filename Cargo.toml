@@ -1,0 +1,10 @@
+[package]
+name = "ternary-steganography"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "Hide information in ternary strategy noise: encode/decode messages in strategy patterns"
+keywords = ["steganography", "ternary", "encoding", "hidden", "strategy"]
+categories = ["algorithms", "encoding"]
+
+[dependencies]
